@@ -12,3 +12,19 @@ It supports playlist management, searching for songs, and a clean UI for smooth 
 
 ## Screenshots 📸
 ![Music Player UI](./public/screenshot-musicplayer.png)
+
+## Installation & Setup 🚀
+
+Follow these steps to set up and run the project on your local machine.
+
+### **1. Clone the Repository**
+```bash
+git clone https://github.com/MUSA-apnacollege/Rhombix-Music-Player.git
+cd Rhombix-Music-Player
+
+### **2. Install Dependencies**
+```bash
+npm install
+npm run dev
+npm run build
+npm run preview
